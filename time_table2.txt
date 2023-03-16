@@ -1,0 +1,49 @@
+<html>
+<head>
+<title>table creation</title>
+</head>
+<body bgcolor="black">
+  <center><h1><font face="mistral" color="red">&#128526;&#128578;TABLE CREATION&#128578;&#128526;</h1></center></font>
+
+<center><table border="1" bordercolor="white" width="1500" height="500" cellpadding="10" cellspacing="1"></center>
+
+<tr>
+ <th colspan="5"bgcolor="magenta"><font color="black">STUDENT & EMPLOYEE DATA LIST</th>
+</tr></font>
+
+<tr>
+  <th colspan="2" bgcolor="red"><font color="white">STUDENT DATA</th>
+  <th colspan="3" bgcolor="lavender"> <font color="red">EMPLOYEES DATA</th>
+  </tr>
+
+<tr>
+  <th bgcolor="green"><font color="white">NAME</th>
+  <th bgcolor="orange"><font color="white">CLASS</th>
+  <th colspan="2" bgcolor="sky blue" ><font color="black">NAME</th>
+  <th bgcolor="yellow" >SALARY</th>
+</tr>
+
+<tr align='center'>
+  <td bgcolor="teal"><font color="white">RAVI</td>
+  <td bgcolor="red"><font color="white">IX</td>
+  <td colspan="2" bgcolor="khaki"><font color="black">SRINIVASARAO</td>
+  <td rowspan="2" bgcolor="indigo"><font color="white">20,000</td>
+</tr>
+
+<tr align='center'>
+  <td bgcolor="purple"><font color="white">GANESH</td>
+  <td rowspan="2" bgcolor="lime"><font color="red">VII</td>
+    <td colspan="2" bgcolor="green"><font color="white">RAMARAO</td>
+</tr>
+
+<tr align='center'>
+  <td bgcolor="blue"><font color="white">VIJAY</td>
+  <td colspan="2" bgcolor="yellow"><font color="black">CHALAPATHIRAO</td>
+  <td bgcolor="red"><font color="white">18,5000</td>
+</tr></font>
+</table>
+<hr>
+<marquee bgcolor="blue" scrollamount="20"><font  face="mistral" color="white">&#128526;&#128578;TABLE CREATION&#128578;&#128526;</marquee>
+<hr>
+</body>
+</html>
