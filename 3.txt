@@ -1,0 +1,12 @@
+def decor(func);
+  def inner(name):
+    if name=="prasad":
+        print("Hi",name,"good moring")
+    else:
+        return func
+@decor #annotations
+def wish(name):
+  print("hi",name,"good afternoon")
+wish(prasad)
+wish(ravi)
+wish(raghu)
